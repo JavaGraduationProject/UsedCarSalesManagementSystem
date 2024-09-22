@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 validator
 =========
 The javascript validation code is based on jQuery. The Validator is cross-browser and will give you the power to use future-proof input types such as ‘tel’, ‘email’, ‘number’, ‘date’, and ‘url’. I can sum this as a ‘template’ for creating web forms.

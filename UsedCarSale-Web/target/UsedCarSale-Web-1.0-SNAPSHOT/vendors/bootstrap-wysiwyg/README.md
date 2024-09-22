@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 bootstrap-wysiwyg
 =================
 [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/steveathon/bootstrap-wysiwyg)

@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # Bootstrap Colorpicker 2
 
 Fancy and customizable color picker plugin for Twitter Bootstrap

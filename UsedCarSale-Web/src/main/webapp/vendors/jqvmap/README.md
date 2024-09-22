@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 ![JQVMap](http://jqvmap.com/img/logo.png "JQVMap")
 
 This project is a heavily modified version of [jVectorMap](https://github.com/bjornd/jvectormap) as it was in April of 2012.  I chose to start fresh rather than fork their project as my intentions were to take it in such a different direction that it would become incompatibale with the original source, rendering it near impossible to merge our projects together without extreme complications.
